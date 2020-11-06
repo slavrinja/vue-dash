@@ -1,2 +1,1 @@
-# vue-dash
-Vue.js dashboard test project
+# Vue.js dashboard test project
