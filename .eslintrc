@@ -17,6 +17,7 @@
     //    "no-extra-semi": "off",
     "no-unused-vars": 1,
     "no-plusplus": "off",
+    "no-param-reassign": "off",
     "no-trailing-spaces": [
       "off"
     ],

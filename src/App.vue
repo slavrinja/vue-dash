@@ -2,10 +2,10 @@
   <div id="app">
     <nav class="nav">
       <router-link to="/dashboard" class="nav-link">
-        dashboard
+        DASHBOARD
       </router-link>
       <router-link to="/transactions" class="nav-link">
-        transactions
+        TRANSACTIONS
       </router-link>
     </nav>
     <div class="row">
